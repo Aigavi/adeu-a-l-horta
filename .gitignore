@@ -1,0 +1,11 @@
+.work/
+tmp/
+fotos/
+audio_enric.mp4
+transcripccio_enric.m4a
+assets/images/
+data/
+docs/
+tools/
+:memory:.ses
+.DS_Store
